@@ -1,1 +1,9 @@
 db.products.insertMany([{title: "The Glow-Booster Skincare Routine Combo", price: "2750", category: "Home Care", description: "59% off", image: "https://www.combonation.in/storage/35886/6471c988653eb_Combo(4).jpg"}, {title: "Ultimate Skincare Revival Set", price: "1887", category: "Home Care", description: "15% off", image: "https://www.combonation.in/storage/35802/6470a4f6d48b9_Combo(5).jpg"}, {title: "Ultimate Grooming Kit", price: "2297", category: "Home Care", description: "59% off", image: "https://www.combonation.in/storage/35811/6470a595ca66a_Combo(6).jpg"},{title: "HandCare Delights Combo", price: "1005", category: "Home Care", description: "52% off", image: "https://www.combonation.in/storage/35888/6471c9b03d8af_Combo(11).jpg"}, {title: "Manly Man's Combo", price: "1526", category: "Home Care", description: "90% off", image: "https://www.combonation.in/storage/64146/654cb35a4f09b_Manly-Combo.jpg"}, {title: "Keratin Renewal Combo", price: "399", category: "Home Care", description: "71% off", image: "https://www.combonation.in/storage/55334/6500241557cc5_Combo-101.jpg"}, {title: "Caffeine Infusion & Body Nourish Combo", price: "449", category: "Home Care", description: "58% off", image: "https://www.combonation.in/storage/55055/64fc4284482e1_Combo-102.jpg"}, {title: "Shower Refresh Combo", price: "339", category: "Home Care", description: "56% off", image: "https://www.combonation.in/storage/55057/64fc432950e5b_Combo-103.jpg"}])
+
+
+https://www.combonation.in/storage/37271/647dbdf15b32b_Vintage-Affairs.png
+https://www.combonation.in/storage/54605/64f1bc858b678_Aadiva-logo.png
+https://www.combonation.in/storage/24819/6433ac6ca10fd_Ajmal-logo.png
+https://www.combonation.in/storage/68505/65742e7133a28_Baby-dove.png
+https://www.combonation.in/storage/37578/647f081140719_Babiecorn.png
+https://www.combonation.in/assets_new/img/viewall.png
